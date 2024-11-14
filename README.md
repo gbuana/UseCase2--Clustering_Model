@@ -1,21 +1,20 @@
 UseCase2-Clustering_Model_FundFusion
 Case Study 2_
 
-
+---
 **PROBLEM STATEMENT**
 
----
 Belum memiliki strategi yang tepat untuk menawarkan jenis produk yang sesuai dengan segmen calon nasabah yang akan direkrut
 
+---
 **OBJECTIVE**
 
----
 Membuat Sebuah Model Clustering untuk mengetahui kepemilikan produk berdasarkan demografi nasabah yang saat ini sudah menggunakan layanan FundFusion dengan Silhouette Score >0.7
 
 
+---
 **VARIABEL YANG TERSEDIA**
 
----
 Dari dataset yang dimiliki terdapat beberapa data yang tersedia:
 
 **1. GCIF                     :** Unique Identifier Nasabah\
@@ -40,10 +39,9 @@ Dari dataset yang dimiliki terdapat beberapa data yang tersedia:
 
 
 
-
+---
 **EXPERIMENT**
 
----
 Point of View:
 1. Dikelompokkan berdasarkan demografis untuk dicari pattern kepemilikan produk
 2. Dikelompookan berdasarkan kepemilikan produk untuk dicari patter berdasarkan demografisnya
