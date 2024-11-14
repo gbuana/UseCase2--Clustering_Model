@@ -1,5 +1,5 @@
 UseCase2-Clustering_Model_FundFusion
-Case Study 2_
+Case Study 2_Model Clustering Penawaran Produk Nasabah Bank dengan Telemarketing
 
 ---
 **PROBLEM STATEMENT**
